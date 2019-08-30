@@ -1,1 +1,11 @@
 credentials.py
+# Do not track this file
+credentials.*
+
+credentials/*
+
+*.pyc
+
+_pycache/
+
+.vscode/
