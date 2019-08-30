@@ -9,3 +9,5 @@ credentials/*
 _pycache/
 
 .vscode/
+
+tweets.json
